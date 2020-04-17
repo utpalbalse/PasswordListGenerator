@@ -22,7 +22,7 @@ Run the interactive program with:
 
 > $python setup.py
 
-The password list will be created in the same folder in .txt format
+The password list will be created in the same folder in .txt
 
 ### Requirements
 
