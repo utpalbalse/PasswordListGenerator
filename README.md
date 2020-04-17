@@ -19,7 +19,8 @@ This program is an interactive list generator that will create a password wordli
 ### Usage
 
 Run the interactive program with:
-    $python setup.py
+
+$python setup.py
 
 The password list will be created in the same folder in .txt format
 
