@@ -27,3 +27,6 @@ The password list will be created in the same folder in .txt
 ### Requirements
 
 Python 3
+
+
+Inspired by [CUPP](https://github.com/Mebus/cupp) and [BEWGor](https://github.com/berzerk0/BEWGor)
